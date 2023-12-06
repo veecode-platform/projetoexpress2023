@@ -1,0 +1,8 @@
+site_name: "projetoexpress2023"
+site_description: "Teste"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
